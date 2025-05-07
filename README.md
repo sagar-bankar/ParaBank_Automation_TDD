@@ -1,4 +1,4 @@
-🔹 Project 2 - Parabank Automation (TDD Framework)
+🔹 Project 1 - Parabank Automation (TDD Framework)
 
 📌 Automated testing of a banking web application: Parabank by Parasoft
 
