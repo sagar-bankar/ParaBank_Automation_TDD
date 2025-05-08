@@ -1,20 +1,21 @@
-🔹 Project 1 - Parabank Automation (TDD Framework)
+🔹 Project 1 - Parabank Automation ---> Hybrid Automation Framework with TestNG
 
 📌 Automated testing of a banking web application: Parabank by Parasoft
 
-✅ Built using TestNG, Selenium WebDriver, and Java (Maven project).
+✅ Technologies/Tools Used:
+TestNG – Test framework for writing and organizing test cases.
 
-🧪 Follows the Test-Driven Development (TDD) approach.
+Page Object Model (POM) – For reusable, readable UI interaction logic.
 
-📁 Structured with Page Object Model (POM) for maintainability
+ExtentReports – Found under com.parabank.utils.ExtentReportManager.java, used for generating reports.
 
-📖 Test data is read from Excel using Apache POI
+Log4j – Found in log4j2.xml, used for logging.
 
-📊 Extent Reports generated for test execution insights
+Maven – Project is Maven-based (pom.xml present).
 
-📸 Auto-captures screenshots on test failures
+Java SE 1.8 – JDK used in the project.
 
-📝 Logging handled via log4j 2
+Git Integration – Git repositories shown in the workspace.
 
 ---
 
